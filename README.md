@@ -86,7 +86,7 @@ bash  long_animation_inference.sh
 
 We provide some test cases in  `test_json` folder. You can also try our model with your own data. You can change the lineart sequence and corresponding character design in the script `Long_animation_inference.sh`.
 
-During the official training and testing, the --height and --weight we used were 576 and 1024 respectively. Additionally, the model can also be compatible with resolutions of 768 in length and 1360 in width respectively.
+During the official training, the --height and --weight we used were 576 and 1024 respectively. Additionally, the model can also be compatible with resolutions of 768 in length and 1360 in width respectively.
 
 
 
