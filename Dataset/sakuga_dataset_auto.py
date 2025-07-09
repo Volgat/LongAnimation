@@ -406,7 +406,7 @@ if __name__=="__main__":
         skip_frames_end=0,
         cache_dir="~/.cache",
         id_token="",
-        data_information="../../../Datasets/SakugaDataset/parquet/fliter_59_aesthetic_precise.parquet"
+        data_information=""
     )
     data=train_dataset.__getitem__(0)
     print(data["instance_video"].shape)

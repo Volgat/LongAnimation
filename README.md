@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/a3866f82-b07a-41ae-9673-2a24f7c78af4
 > Existing	studies	are	limited	to	short-term	colorization	by	fusing	overlapping	features	to	achieve	smooth	transitions,	which	fails	to maintain	long-term	color	consistency.	In	this	study,	we	propose	a	dynamic	global-local	paradigm	to	achieve	ideal	long-term	color consistency	by	dynamically	extracting	global	color-consistent	features	relevant	to	the	current	generation.	
 </p>
 
-🎉🎉 Our paper, “LongAnimation: Long Animation Generation with Dynamic Global-Local Memory” accepted by ICCV 2025!
+🎉🎉 Our paper, “LongAnimation: Long Animation Generation with Dynamic Global-Local Memory” accepted by ICCV 2025! Looking forward to seeing you at ICCV then!
 **Strongly recommend seeing our [demo page](https://cn-makers.github.io/long_animation_web/).**
 
 
