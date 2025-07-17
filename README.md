@@ -103,3 +103,9 @@ Don't forget to cite this source if it proves useful in your research!
       url={https://arxiv.org/abs/2507.01945}, 
 }
 ```
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=CN-makers/LongAnimation&type=Date)](https://www.star-history.com/#CN-makers/LongAnimation&Date)
